@@ -20,23 +20,21 @@
     <ul>
       <li>
         The maze is represented as a 2D grid filled with ones and zeros, where:
-
         <ul>
-          <li><code>1 represents a wall (impassable)</code> </li>
-          <li><code>0 represents a road (passable).</code> </li>
+          <li><code>1 represents a wall (impassable)</code></li>
+          <li><code>0 represents a road (passable)</code></li>
         </ul>
-        depth-first search (DFS) algorithm
+        Depth-first search (DFS) algorithm is used for maze generation.
       </li>
       <li>
-        Algorithm : <code>Delete in Dictionary:</code> <code>time complexity of DFS is O(V + E)</code></li>.
+        Algorithm: <code>Delete in Dictionary:</code> Time complexity of DFS is <code>O(V + E)</code>.
       </li>
     </ul>
   </li>
   <li>
-    <strong>Searching Algorithm:</strong> 
-    I use BFS algorithm to find the shortest path<code>Time complexity is O(V + E)</code>.
+    <strong>Searching Algorithm:</strong>
+    I use BFS algorithm to find the shortest path. Time complexity is <code>O(V + E)</code>.
   </li>
-  
 </ul>
 
 ## Visualization
