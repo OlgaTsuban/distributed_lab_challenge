@@ -23,5 +23,10 @@ if __name__ == '__main__':
     find_users('day1.csv', 'day2.csv')
 </code>
 
+## Duration of solving the task
+- The task was completely solved in 1 hour and 23 minutes. </p>
+    - Study the teory: 39 minutes
+    - Implementation: 44 minutes
+
 ## Conclusion
 The solution efficiently processes and analyzes user activity data from two CSV files, ensuring optimal storage and execution time. By leveraging dictionaries and sets, the solution minimizes redundant computations and efficiently identifies users meeting the specified criteria. Overall, the solution is well-optimized and suitable for handling large datasets with minimal resource consumption.

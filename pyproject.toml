@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "distributed-lab-challenge"
+version = "0.1.0"
+description = "distributed_lab_challenge"
+authors = ["Olga Tsuban <tsubanolga@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
